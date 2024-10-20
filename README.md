@@ -1,6 +1,6 @@
 # **Proyecto Terraform – Despliegue de Arquitectura en Azure**
 
-![Portada del Proyecto](https://via.placeholder.com/1200x400?text=Portada+del+Proyecto)
+![Diagrama del Proyecto](assets/diagrama-contapp.png)
 
 ## **Descripción del Proyecto**
 
@@ -21,18 +21,3 @@ utilizando **código parametrizado** para facilitar la reutilización.
 4. **Virtual Network (VNet)**: Red que interconecta los servicios en entornos privados.
 5. **Subnets**: Aislamiento de servicios mediante subredes.
 6. **Storage Accounts**: Almacenamiento adicional para logs y archivos.
-
----
-
-## **Arquitectura del Proyecto**
-
-El diagrama de arquitectura muestra cómo los servicios están interconectados. A continuación, se describe el flujo de trabajo:
-
-![Diagrama del Proyecto](assets/diagrama-contapp.png)
-
----
-
-## **Conclusión**
-
-Este proyecto demuestra cómo utilizar **Terraform** para gestionar infraestructura en **Azure** de forma eficiente.
-La arquitectura desplegada garantiza escalabilidad y seguridad, permitiendo una gestión contable eficaz en la nube.
